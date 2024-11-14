@@ -2,6 +2,15 @@
 
 This project demonstrates how to create a simple web server on the Arduino Portenta H7 that can be controlled by a phone or any device connected to the same network. The server provides a web interface with buttons to control the red, green, and blue LEDs on the Portenta H7.
 
+<div>
+    <a href="https://www.loom.com/share/47d77f906d6f42489826bc7672efa580">
+      <p>Creating a Smart Light System with Arduino 🌟 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/47d77f906d6f42489826bc7672efa580">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/47d77f906d6f42489826bc7672efa580-0e568d21de81c397-full-play.gif">
+    </a>
+  </div>
+
 ## Features
 
 - Control red, green, and blue LEDs via a web interface
